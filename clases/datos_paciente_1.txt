@@ -1,0 +1,5 @@
+
+               Edad:  años                     Genero: Femenino
+               Embarazo: Si                     Obeso: Si
+               Fuma: Si                               Lesionado: Si
+               Colestertol: Si                      Hipertención: Si
